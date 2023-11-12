@@ -1,1 +1,1 @@
-# Kursova-rabota---I-semester
+# Course Work - I semester - English

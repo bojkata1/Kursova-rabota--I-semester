@@ -1,4 +1,4 @@
-# Course Work - I semester - English
+# Course Work - I-st semester - English
 
 ## Requirements
 Develop a program with a text menu and separate functions for processing numerical data with the following requirements:
@@ -14,7 +14,7 @@ Develop a program with a text menu and separate functions for processing numeric
 - Make similar controls on information entered from files.
 
 
-# Курсова работа - I семестър - Български
+# Курсова работа - I-ви семестър - Български
 ## Изисквания
 Да се разработи програма с текстово меню и отделни функции за обработка на числени данни при следните изисквания:
 -	Текстовото меню позволява на потребителят да избира дали да въвежда данните от клавиатурата или да обработва вече въведени в текстов файл данни. Файлът се посочва от потребителя.
